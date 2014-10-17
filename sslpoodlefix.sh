@@ -3,7 +3,7 @@
 # Copyright (c) 2002-2014 by 4PSA (www.4psa.com)
 
 #Description:
-#The following script patches DNSManager 3.0.0 - 4.0.5 against CVE-2014-356
+#The following script patches DNS Manager 3.0.0 - 4.0.5 against CVE-2014-356
 check_dnsmanager()
 {
         if [ -f /usr/local/dnsmanager/.version ];then
